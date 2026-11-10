@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Cloud Cross Terminal",
+  "short_name": "CloudCross",
+  "description": "EMA cloud-cross scanner and charting terminal with 30m / 2H / Daily alignment, powered by Alpaca data.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
